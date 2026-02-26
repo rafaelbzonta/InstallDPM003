@@ -1,6 +1,6 @@
 PaperCut MF - Direct Print Monitor Deployer
 
-Este projeto contém um script de automação em PowerShell desenvolvido para realizar o deploy, atualização e padronização do PaperCut Direct Print Monitor.
+Este projeto contém um script de automação em PowerShell desenvolvido para realizar o deploy e atualização do PaperCut Direct Print Monitor.
 
 Finalidade:
 O script foi criado para facilitar a contabilização de impressões que ocorrem fora do servidor de impressão principal (impressão direta via IP ou filas locais), garantindo que todos os jobs de impressão sejam devidamente registrados pelo PaperCut MF.
